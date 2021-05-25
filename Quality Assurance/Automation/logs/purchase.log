@@ -1,0 +1,747 @@
+[INFO ] 2021-01-01 11:04:14.484 [Mail_Test] starting - missingAtSign
+[INFO ] 2021-01-01 11:04:19.616 [Mail_Test] missingAtSign - Starting non correct test
+[INFO ] 2021-01-01 11:04:19.628 [Mail_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:04:20.816 [Mail_Test] openCartAndAddItem - Adding item to cart[name=item, price=148]
+[INFO ] 2021-01-01 11:04:20.821 [Mail_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:04:23.018 [Mail_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:04:23.079 [Mail_Test] insertMail - Insert invalid mail: Missing @ in email address, VALUE = [asdasdas.dasda.com]
+[INFO ] 2021-01-01 11:04:23.737 [Mail_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:04:25.784 [Mail_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:04:26.055 [Mail_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:04:26.167 [Mail_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:04:26.269 [Mail_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:04:26.418 [Mail_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:04:26.644 [Mail_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:04:27.257 [Mail_Test] openCartAndAddItem - Adding item to cart[name=item, price=301]
+[INFO ] 2021-01-01 11:04:27.261 [Mail_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:04:27.699 [Mail_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:04:28.702 [Mail_Test] insertMail - Insert invalid mail: Missing @ in email address, VALUE = [asd.com]
+[INFO ] 2021-01-01 11:04:29.285 [Mail_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:04:31.339 [Mail_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:04:31.608 [Mail_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:04:31.725 [Mail_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:04:31.821 [Mail_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:04:31.963 [Mail_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:04:32.170 [Mail_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:04:32.350 [Mail_Test] openCartAndAddItem - Adding item to cart[name=item, price=263]
+[INFO ] 2021-01-01 11:04:32.355 [Mail_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:04:32.801 [Mail_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:04:33.543 [Mail_Test] insertMail - Insert invalid mail: Missing @ in email address, VALUE = [asdasdasda.asdsada.asd.com]
+[INFO ] 2021-01-01 11:04:34.177 [Mail_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:04:36.229 [Mail_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:04:36.493 [Mail_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:04:36.606 [Mail_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:04:36.695 [Mail_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:04:36.843 [Mail_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:04:37.036 [Mail_Test] missingAtSign - All non correct values pass
+[INFO ] 2021-01-01 11:04:37.609 [Mail_Test] succeeded - missingAtSign
+[INFO ] 2021-01-01 11:04:37.610 [Mail_Test] starting - missingPrefix
+[INFO ] 2021-01-01 11:04:42.738 [Mail_Test] missingPrefix - Starting non correct test
+[INFO ] 2021-01-01 11:04:42.739 [Mail_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:04:43.951 [Mail_Test] openCartAndAddItem - Adding item to cart[name=item, price=181]
+[INFO ] 2021-01-01 11:04:43.955 [Mail_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:04:46.118 [Mail_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:04:46.176 [Mail_Test] insertMail - Insert invalid mail: Missing prefix to email address, VALUE = [@dasd.com]
+[INFO ] 2021-01-01 11:04:46.808 [Mail_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:04:48.847 [Mail_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:04:49.115 [Mail_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:04:49.236 [Mail_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:04:49.328 [Mail_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:04:49.475 [Mail_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:04:49.687 [Mail_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:04:50.292 [Mail_Test] openCartAndAddItem - Adding item to cart[name=item, price=330]
+[INFO ] 2021-01-01 11:04:50.296 [Mail_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:04:50.733 [Mail_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:04:51.470 [Mail_Test] insertMail - Insert invalid mail: Missing prefix to email address, VALUE = [@ada.net]
+[INFO ] 2021-01-01 11:04:52.052 [Mail_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:04:54.095 [Mail_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:04:54.360 [Mail_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:04:54.478 [Mail_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:04:54.570 [Mail_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:04:54.713 [Mail_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:04:54.909 [Mail_Test] missingPrefix - All non correct values pass
+[INFO ] 2021-01-01 11:04:55.482 [Mail_Test] succeeded - missingPrefix
+[INFO ] 2021-01-01 11:04:55.483 [Mail_Test] starting - specialChar
+[INFO ] 2021-01-01 11:05:00.629 [Mail_Test] specialChar - Starting non correct test
+[INFO ] 2021-01-01 11:05:00.629 [Mail_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:05:02.119 [Mail_Test] openCartAndAddItem - Adding item to cart[name=item, price=280]
+[INFO ] 2021-01-01 11:05:02.124 [Mail_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:05:03.258 [Mail_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:05:04.169 [Mail_Test] insertMail - Insert invalid mail: Email address with special characters, VALUE = [!,asda@gmail.com]
+[INFO ] 2021-01-01 11:05:05.787 [Mail_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:05:07.829 [Mail_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:05:08.093 [Mail_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:05:08.209 [Mail_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:05:08.302 [Mail_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:05:08.446 [Mail_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:05:08.821 [Mail_Test] specialChar - All non correct values pass
+[INFO ] 2021-01-01 11:05:09.396 [Mail_Test] succeeded - specialChar
+[INFO ] 2021-01-01 11:05:09.397 [Mail_Test] starting - mailEmpty
+[INFO ] 2021-01-01 11:05:14.563 [Mail_Test] mailEmpty - Starting non correct test
+[INFO ] 2021-01-01 11:05:14.564 [Mail_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:05:15.795 [Mail_Test] openCartAndAddItem - Adding item to cart[name=item, price=166]
+[INFO ] 2021-01-01 11:05:15.799 [Mail_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:05:16.817 [Mail_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:05:17.712 [Mail_Test] insertMail - Insert invalid mail: Empty mail field, VALUE = []
+[INFO ] 2021-01-01 11:05:18.890 [Mail_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:05:20.925 [Mail_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:05:21.200 [Mail_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:05:21.315 [Mail_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:05:21.417 [Mail_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:05:21.566 [Mail_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:05:21.770 [Mail_Test] mailEmpty - All non correct values pass
+[INFO ] 2021-01-01 11:05:22.353 [Mail_Test] succeeded - mailEmpty
+[INFO ] 2021-01-01 11:05:22.353 [Mail_Test] starting - overOneAtSign
+[INFO ] 2021-01-01 11:05:27.474 [Mail_Test] overOneAtSign - Starting non correct test
+[INFO ] 2021-01-01 11:05:27.477 [Mail_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:05:28.669 [Mail_Test] openCartAndAddItem - Adding item to cart[name=item, price=212]
+[INFO ] 2021-01-01 11:05:28.673 [Mail_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:05:30.677 [Mail_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:05:30.736 [Mail_Test] insertMail - Insert invalid mail: More than one @ sign in email address, VALUE = [asdas@@gmail.com]
+[INFO ] 2021-01-01 11:05:31.344 [Mail_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:05:33.390 [Mail_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:05:33.655 [Mail_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:05:33.769 [Mail_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:05:33.864 [Mail_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:05:34.004 [Mail_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:05:34.384 [Mail_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:05:34.990 [Mail_Test] openCartAndAddItem - Adding item to cart[name=item, price=369]
+[INFO ] 2021-01-01 11:05:34.994 [Mail_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:05:35.437 [Mail_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:05:36.162 [Mail_Test] insertMail - Insert invalid mail: More than one @ sign in email address, VALUE = [asd@@@hotmail.co.il]
+[INFO ] 2021-01-01 11:05:36.776 [Mail_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:05:38.836 [Mail_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:05:39.098 [Mail_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:05:39.210 [Mail_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:05:39.298 [Mail_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:05:39.438 [Mail_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:05:39.795 [Mail_Test] overOneAtSign - All non correct values pass
+[INFO ] 2021-01-01 11:05:40.361 [Mail_Test] succeeded - overOneAtSign
+[INFO ] 2021-01-01 11:05:40.362 [CardNumber_Test] starting - cardNumberTest
+[INFO ] 2021-01-01 11:05:45.492 [CardNumber_Test] cardNumberTest - Starting non correct test
+[INFO ] 2021-01-01 11:05:45.494 [CardNumber_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:05:46.686 [CardNumber_Test] openCartAndAddItem - Adding item to cart[name=item, price=349]
+[INFO ] 2021-01-01 11:05:46.691 [CardNumber_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:05:47.844 [CardNumber_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:05:48.743 [CardNumber_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:05:50.058 [CardNumber_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:05:52.181 [CardNumber_Test] insertCardNumber - Insert invalid card number: Credit card number for checking only, VALUE = [4242424242424242]
+[INFO ] 2021-01-01 11:05:52.955 [CardNumber_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:05:53.068 [CardNumber_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:05:53.164 [CardNumber_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:05:53.304 [CardNumber_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:05:53.665 [CardNumber_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:05:54.281 [CardNumber_Test] openCartAndAddItem - Adding item to cart[name=item, price=255]
+[INFO ] 2021-01-01 11:05:54.286 [CardNumber_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:05:54.726 [CardNumber_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:05:55.964 [CardNumber_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:05:56.576 [CardNumber_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:05:58.675 [CardNumber_Test] insertCardNumber - Insert invalid card number: Credit card number for checking only, VALUE = [4000056655665556]
+[INFO ] 2021-01-01 11:05:59.474 [CardNumber_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:05:59.584 [CardNumber_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:05:59.678 [CardNumber_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:05:59.822 [CardNumber_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:06:00.178 [CardNumber_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:06:00.359 [CardNumber_Test] openCartAndAddItem - Adding item to cart[name=item, price=156]
+[INFO ] 2021-01-01 11:06:00.363 [CardNumber_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:06:00.812 [CardNumber_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:06:01.564 [CardNumber_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:06:02.177 [CardNumber_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:06:04.318 [CardNumber_Test] insertCardNumber - Insert invalid card number: Credit card number for checking only, VALUE = [5555555555554444]
+[INFO ] 2021-01-01 11:06:05.097 [CardNumber_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:06:05.208 [CardNumber_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:06:05.301 [CardNumber_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:06:05.442 [CardNumber_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:06:05.790 [CardNumber_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:06:05.970 [CardNumber_Test] openCartAndAddItem - Adding item to cart[name=item, price=320]
+[INFO ] 2021-01-01 11:06:05.974 [CardNumber_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:06:06.419 [CardNumber_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:06:07.625 [CardNumber_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:06:08.238 [CardNumber_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:06:10.353 [CardNumber_Test] insertCardNumber - Insert invalid card number: Credit card number for checking only, VALUE = [2223003122003222]
+[INFO ] 2021-01-01 11:06:11.121 [CardNumber_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:06:11.227 [CardNumber_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:06:11.320 [CardNumber_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:06:16.431 [CardNumber_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:06:16.743 [CardNumber_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:06:17.352 [CardNumber_Test] openCartAndAddItem - Adding item to cart[name=item, price=359]
+[INFO ] 2021-01-01 11:06:17.356 [CardNumber_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:06:17.805 [CardNumber_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:06:18.530 [CardNumber_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:06:19.144 [CardNumber_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:06:21.248 [CardNumber_Test] insertCardNumber - Insert invalid card number: Credit card number for checking only, VALUE = [5200828282828210]
+[INFO ] 2021-01-01 11:06:22.019 [CardNumber_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:06:22.127 [CardNumber_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:06:22.218 [CardNumber_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:06:22.359 [CardNumber_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:06:22.701 [CardNumber_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:06:22.878 [CardNumber_Test] openCartAndAddItem - Adding item to cart[name=item, price=394]
+[INFO ] 2021-01-01 11:06:22.882 [CardNumber_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:06:23.323 [CardNumber_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:06:24.055 [CardNumber_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:06:24.665 [CardNumber_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:06:26.767 [CardNumber_Test] insertCardNumber - Insert invalid card number: Credit card number for checking only, VALUE = [5105105105105100]
+[INFO ] 2021-01-01 11:06:27.551 [CardNumber_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:06:27.661 [CardNumber_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:06:27.755 [CardNumber_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:06:27.893 [CardNumber_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:06:28.229 [CardNumber_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:06:28.416 [CardNumber_Test] openCartAndAddItem - Adding item to cart[name=item, price=202]
+[INFO ] 2021-01-01 11:06:28.422 [CardNumber_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:06:28.866 [CardNumber_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:06:29.611 [CardNumber_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:06:30.221 [CardNumber_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:06:32.317 [CardNumber_Test] insertCardNumber - Insert invalid card number: Credit card number for checking only, VALUE = [378282246310005]
+[INFO ] 2021-01-01 11:06:33.082 [CardNumber_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:06:33.191 [CardNumber_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:06:33.286 [CardNumber_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:06:33.425 [CardNumber_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:06:33.761 [CardNumber_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:06:33.940 [CardNumber_Test] openCartAndAddItem - Adding item to cart[name=item, price=371]
+[INFO ] 2021-01-01 11:06:33.944 [CardNumber_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:06:34.384 [CardNumber_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:06:34.638 [CardNumber_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:06:35.250 [CardNumber_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:06:37.366 [CardNumber_Test] insertCardNumber - Insert invalid card number: Credit card number for checking only, VALUE = [371449635398431]
+[INFO ] 2021-01-01 11:06:38.128 [CardNumber_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:06:38.238 [CardNumber_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:06:38.327 [CardNumber_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:06:38.471 [CardNumber_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:06:38.820 [CardNumber_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:06:39.000 [CardNumber_Test] openCartAndAddItem - Adding item to cart[name=item, price=144]
+[INFO ] 2021-01-01 11:06:39.005 [CardNumber_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:06:39.454 [CardNumber_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:06:40.173 [CardNumber_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:06:40.787 [CardNumber_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:06:43.387 [CardNumber_Test] insertCardNumber - Insert invalid card number: Credit card number for checking only, VALUE = [6011111111111117]
+[INFO ] 2021-01-01 11:06:44.164 [CardNumber_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:06:44.275 [CardNumber_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:06:44.366 [CardNumber_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:06:44.511 [CardNumber_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:06:44.847 [CardNumber_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:06:45.028 [CardNumber_Test] openCartAndAddItem - Adding item to cart[name=item, price=269]
+[INFO ] 2021-01-01 11:06:45.033 [CardNumber_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:06:45.479 [CardNumber_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:06:45.738 [CardNumber_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:06:46.353 [CardNumber_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:06:48.460 [CardNumber_Test] insertCardNumber - Insert invalid card number: Credit card number for checking only, VALUE = [6011000990139424]
+[INFO ] 2021-01-01 11:06:49.233 [CardNumber_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:06:49.342 [CardNumber_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:06:49.435 [CardNumber_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:06:49.575 [CardNumber_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:06:49.923 [CardNumber_Test] cardNumberTest - All non correct values pass
+[INFO ] 2021-01-01 11:06:50.509 [CardNumber_Test] succeeded - cardNumberTest
+[INFO ] 2021-01-01 11:06:50.509 [CardNumber_Test] starting - cardNumberEmpty
+[INFO ] 2021-01-01 11:06:55.631 [CardNumber_Test] cardNumberEmpty - Starting non correct test
+[INFO ] 2021-01-01 11:06:55.631 [CardNumber_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:06:56.821 [CardNumber_Test] openCartAndAddItem - Adding item to cart[name=item, price=122]
+[INFO ] 2021-01-01 11:06:56.826 [CardNumber_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:06:58.031 [CardNumber_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:06:58.866 [CardNumber_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:06:59.946 [CardNumber_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:07:02.051 [CardNumber_Test] insertCardNumber - Insert invalid card number: Empty credit card number, VALUE = []
+[INFO ] 2021-01-01 11:07:02.603 [CardNumber_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:07:02.653 [CardNumber_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:07:02.702 [CardNumber_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:07:07.785 [CardNumber_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:07:08.001 [CardNumber_Test] cardNumberEmpty - All non correct values pass
+[INFO ] 2021-01-01 11:07:08.580 [CardNumber_Test] succeeded - cardNumberEmpty
+[INFO ] 2021-01-01 11:07:08.581 [CardNumber_Test] starting - cardNumberShort
+[INFO ] 2021-01-01 11:07:13.703 [CardNumber_Test] cardNumberShort - Starting non correct test
+[INFO ] 2021-01-01 11:07:13.704 [CardNumber_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:07:14.890 [CardNumber_Test] openCartAndAddItem - Adding item to cart[name=item, price=116]
+[INFO ] 2021-01-01 11:07:14.893 [CardNumber_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:07:17.101 [CardNumber_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:07:17.158 [CardNumber_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:07:17.821 [CardNumber_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:07:19.912 [CardNumber_Test] insertCardNumber - Insert invalid card number: Credit card number is shorter than allowed, VALUE = [4242424]
+[INFO ] 2021-01-01 11:07:20.531 [CardNumber_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:07:20.650 [CardNumber_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:07:20.747 [CardNumber_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:07:20.891 [CardNumber_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:07:21.111 [CardNumber_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:07:21.725 [CardNumber_Test] openCartAndAddItem - Adding item to cart[name=item, price=323]
+[INFO ] 2021-01-01 11:07:21.729 [CardNumber_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:07:22.173 [CardNumber_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:07:22.886 [CardNumber_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:07:24.015 [CardNumber_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:07:26.108 [CardNumber_Test] insertCardNumber - Insert invalid card number: Credit card number is shorter than allowed, VALUE = [400]
+[INFO ] 2021-01-01 11:07:26.683 [CardNumber_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:07:26.733 [CardNumber_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:07:26.780 [CardNumber_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:07:31.856 [CardNumber_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:07:32.071 [CardNumber_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:07:32.677 [CardNumber_Test] openCartAndAddItem - Adding item to cart[name=item, price=143]
+[INFO ] 2021-01-01 11:07:32.682 [CardNumber_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:07:33.129 [CardNumber_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:07:33.867 [CardNumber_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:07:34.481 [CardNumber_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:07:36.583 [CardNumber_Test] insertCardNumber - Insert invalid card number: Credit card number is shorter than allowed, VALUE = [555555555]
+[INFO ] 2021-01-01 11:07:37.242 [CardNumber_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:07:37.356 [CardNumber_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:07:37.445 [CardNumber_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:07:37.592 [CardNumber_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:07:37.804 [CardNumber_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:07:37.980 [CardNumber_Test] openCartAndAddItem - Adding item to cart[name=item, price=108]
+[INFO ] 2021-01-01 11:07:37.984 [CardNumber_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:07:38.439 [CardNumber_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:07:39.175 [CardNumber_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:07:40.301 [CardNumber_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:07:42.414 [CardNumber_Test] insertCardNumber - Insert invalid card number: Credit card number is shorter than allowed, VALUE = [22230]
+[INFO ] 2021-01-01 11:07:42.981 [CardNumber_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:07:43.030 [CardNumber_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:07:43.077 [CardNumber_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:07:48.170 [CardNumber_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:07:48.381 [CardNumber_Test] cardNumberShort - All non correct values pass
+[INFO ] 2021-01-01 11:07:48.961 [CardNumber_Test] succeeded - cardNumberShort
+[INFO ] 2021-01-01 11:07:48.961 [Date_Test] starting - dateEmpty
+[INFO ] 2021-01-01 11:07:54.098 [Date_Test] dateEmpty - Starting non correct test
+[INFO ] 2021-01-01 11:07:54.098 [Date_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:07:55.369 [Date_Test] openCartAndAddItem - Adding item to cart[name=item, price=312]
+[INFO ] 2021-01-01 11:07:55.373 [Date_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:07:57.404 [Date_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:07:57.460 [Date_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:07:58.077 [Date_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:08:00.174 [Date_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:08:00.943 [Date_Test] insertCardDate - Insert invalid date: empty date field, VALUE = []
+[INFO ] 2021-01-01 11:08:00.987 [Date_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:08:01.079 [Date_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:08:01.219 [Date_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:08:01.458 [Date_Test] dateEmpty - All non correct values pass
+[INFO ] 2021-01-01 11:08:02.221 [Date_Test] succeeded - dateEmpty
+[INFO ] 2021-01-01 11:08:02.223 [Date_Test] starting - expiredDate
+[INFO ] 2021-01-01 11:08:07.353 [Date_Test] expiredDate - Starting non correct test
+[INFO ] 2021-01-01 11:08:07.354 [Date_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:08:08.552 [Date_Test] openCartAndAddItem - Adding item to cart[name=item, price=305]
+[INFO ] 2021-01-01 11:08:08.556 [Date_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:08:10.668 [Date_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:08:10.727 [Date_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:08:11.430 [Date_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:08:13.525 [Date_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:08:14.306 [Date_Test] insertCardDate - Insert invalid date: card date is expired, VALUE = [1010]
+[INFO ] 2021-01-01 11:08:14.418 [Date_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:08:14.512 [Date_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:08:14.654 [Date_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:08:14.892 [Date_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:08:15.499 [Date_Test] openCartAndAddItem - Adding item to cart[name=item, price=204]
+[INFO ] 2021-01-01 11:08:15.503 [Date_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:08:15.941 [Date_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:08:17.151 [Date_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:08:18.297 [Date_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:08:20.394 [Date_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:08:21.171 [Date_Test] insertCardDate - Insert invalid date: card date is expired, VALUE = [0100]
+[INFO ] 2021-01-01 11:08:21.282 [Date_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:08:21.380 [Date_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:08:21.521 [Date_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:08:21.751 [Date_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:08:22.360 [Date_Test] openCartAndAddItem - Adding item to cart[name=item, price=207]
+[INFO ] 2021-01-01 11:08:22.364 [Date_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:08:22.812 [Date_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:08:24.050 [Date_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:08:24.663 [Date_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:08:26.776 [Date_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:08:27.547 [Date_Test] insertCardDate - Insert invalid date: card date is expired, VALUE = [072003]
+[INFO ] 2021-01-01 11:08:27.691 [Date_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:08:27.779 [Date_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:08:27.919 [Date_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:08:28.147 [Date_Test] expiredDate - All non correct values pass
+[INFO ] 2021-01-01 11:08:28.729 [Date_Test] succeeded - expiredDate
+[INFO ] 2021-01-01 11:08:28.729 [Date_Test] starting - dateLength
+[INFO ] 2021-01-01 11:08:33.859 [Date_Test] dateLength - Starting non correct test
+[INFO ] 2021-01-01 11:08:33.861 [Date_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:08:35.206 [Date_Test] openCartAndAddItem - Adding item to cart[name=item, price=307]
+[INFO ] 2021-01-01 11:08:35.210 [Date_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:08:36.245 [Date_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:08:37.154 [Date_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:08:38.405 [Date_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:08:40.504 [Date_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:08:41.277 [Date_Test] insertCardDate - Insert invalid date: date length exceeds or lower than legal length, VALUE = [10321]
+[INFO ] 2021-01-01 11:08:41.408 [Date_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:08:41.502 [Date_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:08:41.647 [Date_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:08:41.883 [Date_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:08:42.493 [Date_Test] openCartAndAddItem - Adding item to cart[name=item, price=330]
+[INFO ] 2021-01-01 11:08:42.497 [Date_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:08:42.942 [Date_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:08:44.140 [Date_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:08:44.753 [Date_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:08:46.849 [Date_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:08:47.618 [Date_Test] insertCardDate - Insert invalid date: date length exceeds or lower than legal length, VALUE = [01201]
+[INFO ] 2021-01-01 11:08:47.742 [Date_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:08:47.834 [Date_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:08:47.973 [Date_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:08:48.207 [Date_Test] dateLength - All non correct values pass
+[INFO ] 2021-01-01 11:08:48.788 [Date_Test] succeeded - dateLength
+[INFO ] 2021-01-01 11:08:48.788 [CVC_Test] starting - specialChars
+[INFO ] 2021-01-01 11:08:53.919 [CVC_Test] specialChars - Starting non correct test
+[INFO ] 2021-01-01 11:08:53.920 [CVC_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:08:55.529 [CVC_Test] openCartAndAddItem - Adding item to cart[name=item, price=282]
+[INFO ] 2021-01-01 11:08:55.534 [CVC_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:08:56.515 [CVC_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:08:57.303 [CVC_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:08:57.922 [CVC_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:09:00.024 [CVC_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:09:00.799 [CVC_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:09:00.912 [CVC_Test] insertCVC - Insert invalid CVC: special chars in CVC field, VALUE = [!@#]
+[INFO ] 2021-01-01 11:09:00.958 [CVC_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:09:01.102 [CVC_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:09:01.358 [CVC_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:09:02.254 [CVC_Test] openCartAndAddItem - Adding item to cart[name=item, price=201]
+[INFO ] 2021-01-01 11:09:02.258 [CVC_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:09:02.644 [CVC_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:09:03.301 [CVC_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:09:03.939 [CVC_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:09:06.039 [CVC_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:09:06.842 [CVC_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:09:06.951 [CVC_Test] insertCVC - Insert invalid CVC: special chars in CVC field, VALUE = [#&%]
+[INFO ] 2021-01-01 11:09:06.995 [CVC_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:09:07.134 [CVC_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:09:07.379 [CVC_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:09:08.263 [CVC_Test] openCartAndAddItem - Adding item to cart[name=item, price=185]
+[INFO ] 2021-01-01 11:09:08.267 [CVC_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:09:08.650 [CVC_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:09:08.707 [CVC_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:09:09.885 [CVC_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:09:12.492 [CVC_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:09:13.268 [CVC_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:09:13.380 [CVC_Test] insertCVC - Insert invalid CVC: special chars in CVC field, VALUE = [,.4]
+[INFO ] 2021-01-01 11:09:13.447 [CVC_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:09:13.592 [CVC_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:09:13.864 [CVC_Test] specialChars - All non correct values pass
+[INFO ] 2021-01-01 11:09:14.434 [CVC_Test] succeeded - specialChars
+[INFO ] 2021-01-01 11:09:14.434 [CVC_Test] starting - shortCVC
+[INFO ] 2021-01-01 11:09:19.559 [CVC_Test] shortCVC - Starting non correct test
+[INFO ] 2021-01-01 11:09:19.560 [CVC_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:09:20.772 [CVC_Test] openCartAndAddItem - Adding item to cart[name=item, price=141]
+[INFO ] 2021-01-01 11:09:20.776 [CVC_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:09:22.389 [CVC_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:09:22.446 [CVC_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:09:23.112 [CVC_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:09:25.710 [CVC_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:09:26.487 [CVC_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:09:26.597 [CVC_Test] insertCVC - Insert invalid CVC: CVC doesn't meet length requirements, VALUE = [1]
+[INFO ] 2021-01-01 11:09:26.658 [CVC_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:09:26.799 [CVC_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:09:27.050 [CVC_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:09:27.657 [CVC_Test] openCartAndAddItem - Adding item to cart[name=item, price=294]
+[INFO ] 2021-01-01 11:09:27.661 [CVC_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:09:28.056 [CVC_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:09:28.113 [CVC_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:09:28.840 [CVC_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:09:31.457 [CVC_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:09:32.234 [CVC_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:09:32.344 [CVC_Test] insertCVC - Insert invalid CVC: CVC doesn't meet length requirements, VALUE = [12]
+[INFO ] 2021-01-01 11:09:32.420 [CVC_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:09:32.565 [CVC_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:09:32.824 [CVC_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:09:33.006 [CVC_Test] openCartAndAddItem - Adding item to cart[name=item, price=196]
+[INFO ] 2021-01-01 11:09:33.009 [CVC_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:09:33.399 [CVC_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:09:33.971 [CVC_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:09:34.581 [CVC_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:09:36.686 [CVC_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:09:37.456 [CVC_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:09:37.564 [CVC_Test] insertCVC - Insert invalid CVC: CVC doesn't meet length requirements, VALUE = [3]
+[INFO ] 2021-01-01 11:09:37.624 [CVC_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:09:37.766 [CVC_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:09:38.009 [CVC_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:09:38.612 [CVC_Test] openCartAndAddItem - Adding item to cart[name=item, price=240]
+[INFO ] 2021-01-01 11:09:38.616 [CVC_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:09:39.014 [CVC_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:09:39.072 [CVC_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:09:40.250 [CVC_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:09:42.852 [CVC_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:09:43.624 [CVC_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:09:43.739 [CVC_Test] insertCVC - Insert invalid CVC: CVC doesn't meet length requirements, VALUE = [8]
+[INFO ] 2021-01-01 11:09:43.797 [CVC_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:09:43.942 [CVC_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:09:44.192 [CVC_Test] shortCVC - All non correct values pass
+[INFO ] 2021-01-01 11:09:44.773 [CVC_Test] succeeded - shortCVC
+[INFO ] 2021-01-01 11:09:44.773 [CVC_Test] starting - charAndDigits
+[INFO ] 2021-01-01 11:09:49.899 [CVC_Test] charAndDigits - Starting non correct test
+[INFO ] 2021-01-01 11:09:49.901 [CVC_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:09:51.375 [CVC_Test] openCartAndAddItem - Adding item to cart[name=item, price=197]
+[INFO ] 2021-01-01 11:09:51.379 [CVC_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:09:52.827 [CVC_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:09:52.884 [CVC_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:09:53.495 [CVC_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:09:56.103 [CVC_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:09:56.883 [CVC_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:09:56.991 [CVC_Test] insertCVC - Insert invalid CVC: char and digits in CVC field, VALUE = [a2s]
+[INFO ] 2021-01-01 11:09:57.050 [CVC_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:09:57.194 [CVC_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:09:57.441 [CVC_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:09:58.027 [CVC_Test] openCartAndAddItem - Adding item to cart[name=item, price=165]
+[INFO ] 2021-01-01 11:09:58.030 [CVC_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:09:58.411 [CVC_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:09:58.471 [CVC_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:09:59.612 [CVC_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:10:01.708 [CVC_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:10:02.480 [CVC_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:10:02.595 [CVC_Test] insertCVC - Insert invalid CVC: char and digits in CVC field, VALUE = [d2a]
+[INFO ] 2021-01-01 11:10:02.660 [CVC_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:10:02.804 [CVC_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:10:03.049 [CVC_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:10:03.656 [CVC_Test] openCartAndAddItem - Adding item to cart[name=item, price=150]
+[INFO ] 2021-01-01 11:10:03.660 [CVC_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:10:04.059 [CVC_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:10:04.697 [CVC_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:10:05.305 [CVC_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:10:07.404 [CVC_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:10:08.181 [CVC_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:10:08.295 [CVC_Test] insertCVC - Insert invalid CVC: char and digits in CVC field, VALUE = [1ds]
+[INFO ] 2021-01-01 11:10:08.354 [CVC_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:10:08.497 [CVC_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:10:08.750 [CVC_Test] charAndDigits - All non correct values pass
+[INFO ] 2021-01-01 11:10:09.356 [CVC_Test] succeeded - charAndDigits
+[INFO ] 2021-01-01 11:10:09.356 [CVC_Test] starting - cvcEmpty
+[INFO ] 2021-01-01 11:10:14.484 [CVC_Test] cvcEmpty - Starting non correct test
+[INFO ] 2021-01-01 11:10:14.484 [CVC_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:10:15.706 [CVC_Test] openCartAndAddItem - Adding item to cart[name=item, price=238]
+[INFO ] 2021-01-01 11:10:15.710 [CVC_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:10:18.099 [CVC_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:10:18.155 [CVC_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:10:18.819 [CVC_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:10:21.424 [CVC_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:10:22.203 [CVC_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:10:22.315 [CVC_Test] insertCVC - Insert invalid CVC: empty CVC field, VALUE = []
+[INFO ] 2021-01-01 11:10:22.357 [CVC_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:10:22.497 [CVC_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:10:22.749 [CVC_Test] cvcEmpty - All non correct values pass
+[INFO ] 2021-01-01 11:10:23.319 [CVC_Test] succeeded - cvcEmpty
+[INFO ] 2021-01-01 11:10:23.320 [CVC_Test] starting - noneDigits
+[INFO ] 2021-01-01 11:10:28.456 [CVC_Test] noneDigits - -- Starting non correct test
+[INFO ] 2021-01-01 11:10:28.457 [CVC_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:10:29.813 [CVC_Test] openCartAndAddItem - Adding item to cart[name=item, price=188]
+[INFO ] 2021-01-01 11:10:29.816 [CVC_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:10:31.934 [CVC_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:10:31.993 [CVC_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:10:32.608 [CVC_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:10:34.702 [CVC_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:10:35.501 [CVC_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:10:35.611 [CVC_Test] insertCVC - Insert invalid CVC: no digits in CVC field, VALUE = [asd]
+[INFO ] 2021-01-01 11:10:35.655 [CVC_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:10:35.801 [CVC_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:10:36.051 [CVC_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:10:36.657 [CVC_Test] openCartAndAddItem - Adding item to cart[name=item, price=346]
+[INFO ] 2021-01-01 11:10:36.661 [CVC_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:10:37.096 [CVC_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:10:38.399 [CVC_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:10:39.038 [CVC_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:10:41.143 [CVC_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:10:41.913 [CVC_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:10:42.023 [CVC_Test] insertCVC - Insert invalid CVC: no digits in CVC field, VALUE = [fds]
+[INFO ] 2021-01-01 11:10:42.067 [CVC_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:10:42.207 [CVC_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:10:42.460 [CVC_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:10:43.060 [CVC_Test] openCartAndAddItem - Adding item to cart[name=item, price=207]
+[INFO ] 2021-01-01 11:10:43.064 [CVC_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:10:43.501 [CVC_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:10:44.216 [CVC_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:10:44.837 [CVC_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:10:46.963 [CVC_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:10:47.741 [CVC_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:10:47.852 [CVC_Test] insertCVC - Insert invalid CVC: no digits in CVC field, VALUE = [cxv]
+[INFO ] 2021-01-01 11:10:47.895 [CVC_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:10:48.041 [CVC_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:10:48.301 [CVC_Test] noneDigits - All non correct values pass
+[INFO ] 2021-01-01 11:10:48.885 [CVC_Test] succeeded - noneDigits
+[INFO ] 2021-01-01 11:10:48.885 [ZIP_Code_Test] starting - shortZip
+[INFO ] 2021-01-01 11:10:54.009 [ZIP_Code_Test] shortZip - Starting non correct test
+[INFO ] 2021-01-01 11:10:54.009 [ZIP_Code_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:10:55.205 [ZIP_Code_Test] openCartAndAddItem - Adding item to cart[name=item, price=353]
+[INFO ] 2021-01-01 11:10:55.209 [ZIP_Code_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:10:56.272 [ZIP_Code_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:10:57.202 [ZIP_Code_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:10:57.979 [ZIP_Code_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:11:00.078 [ZIP_Code_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:11:00.852 [ZIP_Code_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:11:00.963 [ZIP_Code_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:11:01.058 [ZIP_Code_Test] insertZipCode - Insert invalid zip code: The zip code is too short, VALUE = [4234]
+[INFO ] 2021-01-01 11:11:01.168 [ZIP_Code_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:11:01.519 [ZIP_Code_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:11:02.118 [ZIP_Code_Test] openCartAndAddItem - Adding item to cart[name=item, price=369]
+[INFO ] 2021-01-01 11:11:02.122 [ZIP_Code_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:11:02.557 [ZIP_Code_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:11:03.293 [ZIP_Code_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:11:04.444 [ZIP_Code_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:11:06.535 [ZIP_Code_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:11:07.305 [ZIP_Code_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:11:07.415 [ZIP_Code_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:11:07.506 [ZIP_Code_Test] insertZipCode - Insert invalid zip code: The zip code is too short, VALUE = [123]
+[INFO ] 2021-01-01 11:11:07.600 [ZIP_Code_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:11:07.951 [ZIP_Code_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:11:08.133 [ZIP_Code_Test] openCartAndAddItem - Adding item to cart[name=item, price=133]
+[INFO ] 2021-01-01 11:11:08.137 [ZIP_Code_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:11:08.580 [ZIP_Code_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:11:09.802 [ZIP_Code_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:11:10.414 [ZIP_Code_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:11:12.510 [ZIP_Code_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:11:13.280 [ZIP_Code_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:11:13.390 [ZIP_Code_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:11:13.484 [ZIP_Code_Test] insertZipCode - Insert invalid zip code: The zip code is too short, VALUE = [12]
+[INFO ] 2021-01-01 11:11:13.557 [ZIP_Code_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:11:13.906 [ZIP_Code_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:11:14.499 [ZIP_Code_Test] openCartAndAddItem - Adding item to cart[name=item, price=231]
+[INFO ] 2021-01-01 11:11:14.503 [ZIP_Code_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:11:14.943 [ZIP_Code_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:11:15.699 [ZIP_Code_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:11:16.312 [ZIP_Code_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:11:18.411 [ZIP_Code_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:11:19.186 [ZIP_Code_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:11:19.295 [ZIP_Code_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:11:19.387 [ZIP_Code_Test] insertZipCode - Insert invalid zip code: The zip code is too short, VALUE = [4]
+[INFO ] 2021-01-01 11:11:19.444 [ZIP_Code_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:11:19.787 [ZIP_Code_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:11:19.965 [ZIP_Code_Test] openCartAndAddItem - Adding item to cart[name=item, price=190]
+[INFO ] 2021-01-01 11:11:19.969 [ZIP_Code_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:11:20.410 [ZIP_Code_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:11:21.163 [ZIP_Code_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:11:21.784 [ZIP_Code_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:11:23.879 [ZIP_Code_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:11:24.652 [ZIP_Code_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:11:24.762 [ZIP_Code_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:11:24.855 [ZIP_Code_Test] insertZipCode - Insert invalid zip code: The zip code is too short, VALUE = [6546]
+[INFO ] 2021-01-01 11:11:24.963 [ZIP_Code_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:11:25.321 [ZIP_Code_Test] shortZip - All non correct values pass
+[INFO ] 2021-01-01 11:11:25.914 [ZIP_Code_Test] succeeded - shortZip
+[INFO ] 2021-01-01 11:11:25.915 [ZIP_Code_Test] starting - zipEmpty
+[INFO ] 2021-01-01 11:11:31.037 [ZIP_Code_Test] zipEmpty - Starting non correct test
+[INFO ] 2021-01-01 11:11:31.037 [ZIP_Code_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:11:32.220 [ZIP_Code_Test] openCartAndAddItem - Adding item to cart[name=item, price=226]
+[INFO ] 2021-01-01 11:11:32.224 [ZIP_Code_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:11:33.260 [ZIP_Code_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:11:33.828 [ZIP_Code_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:11:34.450 [ZIP_Code_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:11:36.548 [ZIP_Code_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:11:37.348 [ZIP_Code_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:11:37.486 [ZIP_Code_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:11:37.591 [ZIP_Code_Test] insertZipCode - Insert invalid zip code: empty Zip code field, VALUE = []
+[INFO ] 2021-01-01 11:11:37.630 [ZIP_Code_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:11:37.927 [ZIP_Code_Test] zipEmpty - All non correct values pass
+[INFO ] 2021-01-01 11:11:38.506 [ZIP_Code_Test] succeeded - zipEmpty
+[INFO ] 2021-01-01 11:11:38.507 [ZIP_Code_Test] starting - longZip
+[INFO ] 2021-01-01 11:11:43.645 [ZIP_Code_Test] longZip - Starting non correct test
+[INFO ] 2021-01-01 11:11:43.646 [ZIP_Code_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:11:44.846 [ZIP_Code_Test] openCartAndAddItem - Adding item to cart[name=item, price=333]
+[INFO ] 2021-01-01 11:11:44.850 [ZIP_Code_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:11:46.879 [ZIP_Code_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:11:46.935 [ZIP_Code_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:11:47.596 [ZIP_Code_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:11:49.699 [ZIP_Code_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:11:50.476 [ZIP_Code_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:11:50.583 [ZIP_Code_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:11:50.674 [ZIP_Code_Test] insertZipCode - Insert invalid zip code: The zip code is too long, VALUE = [446543545646565465465465465]
+[INFO ] 2021-01-01 11:11:51.153 [ZIP_Code_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:11:51.495 [ZIP_Code_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:11:52.105 [ZIP_Code_Test] openCartAndAddItem - Adding item to cart[name=item, price=213]
+[INFO ] 2021-01-01 11:11:52.109 [ZIP_Code_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:11:52.552 [ZIP_Code_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:11:53.738 [ZIP_Code_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:11:54.876 [ZIP_Code_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:11:56.985 [ZIP_Code_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:11:57.757 [ZIP_Code_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:11:57.866 [ZIP_Code_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:11:57.956 [ZIP_Code_Test] insertZipCode - Insert invalid zip code: The zip code is too long, VALUE = [65468465465465456465]
+[INFO ] 2021-01-01 11:11:58.325 [ZIP_Code_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:11:58.660 [ZIP_Code_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:11:58.848 [ZIP_Code_Test] openCartAndAddItem - Adding item to cart[name=item, price=123]
+[INFO ] 2021-01-01 11:11:58.852 [ZIP_Code_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:11:59.294 [ZIP_Code_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:12:00.017 [ZIP_Code_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:12:00.630 [ZIP_Code_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:12:02.740 [ZIP_Code_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:12:03.507 [ZIP_Code_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:12:03.616 [ZIP_Code_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:12:03.710 [ZIP_Code_Test] insertZipCode - Insert invalid zip code: The zip code is too long, VALUE = [465465423492342323324]
+[INFO ] 2021-01-01 11:12:04.102 [ZIP_Code_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:12:04.433 [ZIP_Code_Test] longZip - All non correct values pass
+[INFO ] 2021-01-01 11:12:05.014 [ZIP_Code_Test] succeeded - longZip
+[INFO ] 2021-01-01 11:12:05.014 [ZIP_Code_Test] starting - noneDigits
+[INFO ] 2021-01-01 11:12:10.149 [ZIP_Code_Test] noneDigits - Starting non correct test
+[INFO ] 2021-01-01 11:12:10.151 [ZIP_Code_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:12:11.350 [ZIP_Code_Test] openCartAndAddItem - Adding item to cart[name=item, price=202]
+[INFO ] 2021-01-01 11:12:11.354 [ZIP_Code_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:12:12.383 [ZIP_Code_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:12:13.268 [ZIP_Code_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:12:14.323 [ZIP_Code_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:12:16.372 [ZIP_Code_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:12:16.646 [ZIP_Code_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:12:16.762 [ZIP_Code_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:12:16.862 [ZIP_Code_Test] insertZipCode - Insert invalid zip code: no digits in Zip code field, VALUE = [dasdfsd]
+[INFO ] 2021-01-01 11:12:17.026 [ZIP_Code_Test] pay - Click on Pay button
+[DEBUG] 2021-01-01 11:12:18.227 [ZIP_Code_Test] failed - noneDigits | Reason: An incorrect value passed the test
+[INFO ] 2021-01-01 11:12:18.228 [RememberMe_Test] starting - invalidLengthPhoneNumber
+[INFO ] 2021-01-01 11:12:23.372 [RememberMe_Test] invalidLengthPhoneNumber - Starting non correct test
+[INFO ] 2021-01-01 11:12:23.372 [RememberMe_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:12:24.563 [RememberMe_Test] openCartAndAddItem - Adding item to cart[name=item, price=143]
+[INFO ] 2021-01-01 11:12:24.566 [RememberMe_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:12:26.753 [RememberMe_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:12:26.810 [RememberMe_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:12:27.474 [RememberMe_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:12:29.570 [RememberMe_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:12:30.347 [RememberMe_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:12:30.469 [RememberMe_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:12:30.568 [RememberMe_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:12:30.713 [RememberMe_Test] rememberMe - Click on Remember me
+[INFO ] 2021-01-01 11:12:30.775 [RememberMe_Test] rememberMe - Insert phone number to Remember me
+[INFO ] 2021-01-01 11:12:31.332 [RememberMe_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:12:31.722 [RememberMe_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:12:32.335 [RememberMe_Test] openCartAndAddItem - Adding item to cart[name=item, price=103]
+[INFO ] 2021-01-01 11:12:32.339 [RememberMe_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:12:32.783 [RememberMe_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:12:33.534 [RememberMe_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:12:34.161 [RememberMe_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:12:36.271 [RememberMe_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:12:37.047 [RememberMe_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:12:37.159 [RememberMe_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:12:37.252 [RememberMe_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:12:37.394 [RememberMe_Test] rememberMe - Click on Remember me
+[INFO ] 2021-01-01 11:12:37.447 [RememberMe_Test] rememberMe - Insert phone number to Remember me
+[INFO ] 2021-01-01 11:12:38.030 [RememberMe_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:12:38.391 [RememberMe_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:12:38.575 [RememberMe_Test] openCartAndAddItem - Adding item to cart[name=item, price=217]
+[INFO ] 2021-01-01 11:12:38.579 [RememberMe_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:12:39.027 [RememberMe_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:12:39.762 [RememberMe_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:12:40.884 [RememberMe_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:12:42.985 [RememberMe_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:12:43.756 [RememberMe_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:12:43.864 [RememberMe_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:12:43.957 [RememberMe_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:12:44.098 [RememberMe_Test] rememberMe - Click on Remember me
+[INFO ] 2021-01-01 11:12:44.154 [RememberMe_Test] rememberMe - Insert phone number to Remember me
+[INFO ] 2021-01-01 11:12:44.712 [RememberMe_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:12:45.073 [RememberMe_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:12:45.674 [RememberMe_Test] openCartAndAddItem - Adding item to cart[name=item, price=293]
+[INFO ] 2021-01-01 11:12:45.678 [RememberMe_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:12:46.128 [RememberMe_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:12:46.902 [RememberMe_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:12:47.513 [RememberMe_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:12:50.116 [RememberMe_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:12:50.894 [RememberMe_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:12:51.005 [RememberMe_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:12:51.101 [RememberMe_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:12:51.242 [RememberMe_Test] rememberMe - Click on Remember me
+[INFO ] 2021-01-01 11:12:51.297 [RememberMe_Test] rememberMe - Insert phone number to Remember me
+[INFO ] 2021-01-01 11:12:51.844 [RememberMe_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:12:52.231 [RememberMe_Test] invalidLengthPhoneNumber - All non correct values pass
+[INFO ] 2021-01-01 11:12:52.801 [RememberMe_Test] succeeded - invalidLengthPhoneNumber
+[INFO ] 2021-01-01 11:12:52.801 [RememberMe_Test] starting - phoneNumberEmpty
+[INFO ] 2021-01-01 11:12:57.923 [RememberMe_Test] phoneNumberEmpty - Starting non correct test
+[INFO ] 2021-01-01 11:12:57.923 [RememberMe_Test] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:12:59.190 [RememberMe_Test] openCartAndAddItem - Adding item to cart[name=item, price=160]
+[INFO ] 2021-01-01 11:12:59.194 [RememberMe_Test] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:13:00.290 [RememberMe_Test] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:13:01.196 [RememberMe_Test] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:13:02.454 [RememberMe_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:13:04.550 [RememberMe_Test] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:13:05.334 [RememberMe_Test] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:13:05.447 [RememberMe_Test] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:13:05.543 [RememberMe_Test] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:13:05.683 [RememberMe_Test] rememberMe - Click on Remember me
+[INFO ] 2021-01-01 11:13:05.740 [RememberMe_Test] rememberMe - Insert phone number to Remember me
+[INFO ] 2021-01-01 11:13:06.285 [RememberMe_Test] pay - Click on Pay button
+[INFO ] 2021-01-01 11:13:06.610 [RememberMe_Test] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:13:08.657 [RememberMe_Test] phoneNumberEmpty - All non correct values pass
+[INFO ] 2021-01-01 11:13:09.238 [RememberMe_Test] succeeded - phoneNumberEmpty

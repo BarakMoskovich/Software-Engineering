@@ -1,0 +1,168 @@
+.root {
+    -fx-text-align: center;
+    -fx-font-family: Tahoma;
+    -fx-font-size: 14;
+}
+
+.text-field, .check-box {
+    -fx-min-width: 400px;
+    -fx-max-width: 400px;
+    -fx-min-height: 40px;
+    -fx-max-height: 40px;
+    -fx-padding: 5px;
+}
+
+.choice-box {
+    -fx-min-width: 100px;
+    -fx-max-width: 100px;
+    -fx-min-height: 40px;
+    -fx-max-height: 40px;
+    -fx-padding: 5px;
+}
+
+.text-field:focused, .check-box:focused, .choice-box:focused, .text-area-msg:focused  {
+    -fx-faint-focus-color: transparent;
+    -fx-focus-color: #77b550;
+}
+
+.button-back {
+    -fx-padding: 0;
+    -fx-border: none;
+    -fx-background-color: none;
+    -fx-background-image: url("/Images/back.png");
+    -fx-background-repeat: no-repeat;
+    -fx-min-width: 36px;
+    -fx-max-width: 36px;
+    -fx-min-height: 36px;
+    -fx-max-height: 36px;
+}
+
+.button-search {
+    -fx-padding: 0;
+    -fx-border: none;
+    -fx-background-color: none;
+    -fx-background-image: url("/Images/search.png");
+    -fx-background-repeat: no-repeat;
+    -fx-min-width: 36px;
+    -fx-max-width: 36px;
+    -fx-min-height: 36px;
+    -fx-max-height: 36px;
+}
+
+.button-order, .button-quick-close {
+    -fx-padding: 0;
+    -fx-text-fill: #fff;
+    -fx-border: #77b550;
+    -fx-background-color: #77b550;
+    -fx-min-width: 100px;
+    -fx-max-width: 100px;
+    -fx-min-height: 30px;
+    -fx-max-height: 30px;
+}
+
+.button-send {
+    -fx-padding: 0;
+    -fx-text-fill: #fff;
+    -fx-border: #77b550;
+    -fx-background-color: #77b550;
+    -fx-min-width: 60px;
+    -fx-max-width: 60px;
+    -fx-min-height: 60px;
+    -fx-max-height: 60px;
+}
+
+.button-remove {
+    -fx-padding: 0;
+    -fx-border: none;
+    -fx-background-color: none;
+    -fx-background-image: url("/Images/remove.png");
+    -fx-background-repeat: no-repeat;
+    -fx-min-width: 24px;
+    -fx-max-width: 24px;
+    -fx-min-height: 24px;
+    -fx-max-height: 24px;
+}
+
+.table-view {
+    -fx-text-alignment: center;
+    -fx-font-size: 12;
+    -fx-font-weight: none;
+    -fx-max-height: 300;
+    -fx-max-width: 520;
+}
+
+.table-view:focused  {
+    -fx-faint-focus-color: transparent;
+    -fx-focus-color: #77b550;
+}
+
+.text-header {
+    -fx-font-size: 16px;
+}
+
+.text-area-msg {
+    -fx-min-width: 400px;
+    -fx-max-width: 400px;
+    -fx-min-height: 60px;
+    -fx-max-height: 60px;
+}
+
+.text-area-response {
+    -fx-border-color: #77b550;
+    -fx-min-width: 470px;
+    -fx-max-width: 470px;
+    -fx-min-height: 260px;
+    -fx-max-height: 260px;
+}
+
+.text-area-response:focused {
+    -fx-faint-focus-color: transparent;
+    -fx-focus-color: transparent;
+}
+
+.button-main {
+    -fx-background-repeat: no-repeat;
+    -fx-min-height: 126px;
+    -fx-max-height: 126px;
+    -fx-min-width: 126px;
+    -fx-max-width: 126px;
+    -fx-padding: 0;
+    -fx-border: none;
+    -fx-background-color: none;
+}
+
+.button-main:pressed:hover {
+    -fx-opacity : 0;
+}
+
+
+.button-main:hover, .disable {
+    -fx-opacity : 0.5;
+}
+
+.enable {
+    -fx-opacity : 1;
+}
+
+.button-cancel {
+    -fx-background-image: url("/Images/undo.png");
+}
+
+.button-sale {
+    -fx-background-image: url("/Images/newSale.png");
+    -fx-min-width: 150px;
+    -fx-max-width: 150px;
+}
+
+.button-list-products {
+    -fx-background-image: url("/Images/ProductsList.png");
+}
+
+.button-product {
+    -fx-background-image: url("/Images/newProduct.png");
+}
+
+.quick-show {
+    -fx-padding: 20px;
+    -fx-text-alignment: left;
+}

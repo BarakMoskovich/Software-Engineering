@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="warn">
+    <Properties>
+        <Property name="basePath">logs</Property>
+        <Property name="logPatternLayout">[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%c{1}] %M - %msg%n</Property>
+    </Properties>
+
+    <Appenders>
+        <RollingFile name="purchase-log" fileName="${basePath}/purchase.log" filePattern="${basePath}/purchase-%d{yyyy-MM-dd}.log">
+            <PatternLayout>
+                <pattern>${logPatternLayout}</pattern>
+            </PatternLayout>
+            <Policies>
+                <TimeBasedTriggeringPolicy interval="1" modulate="true" />
+            </Policies>
+        </RollingFile>
+
+        <RollingFile name="product-list-log" fileName="${basePath}/product-list.log" filePattern="${basePath}/product-list-%d{yyyy-MM-dd}.log">
+            <PatternLayout>
+                <pattern>${logPatternLayout}</pattern>
+            </PatternLayout>
+            <Policies>
+                <TimeBasedTriggeringPolicy interval="1" modulate="true" />
+            </Policies>
+        </RollingFile>
+
+        <RollingFile name="sanity-log" fileName="${basePath}/sanity.log" filePattern="${basePath}/sanity-%d{yyyy-MM-dd}.log">
+            <PatternLayout>
+                <pattern>${logPatternLayout}</pattern>
+            </PatternLayout>
+            <Policies>
+                <TimeBasedTriggeringPolicy interval="1" modulate="true" />
+            </Policies>
+        </RollingFile>
+
+        <RollingFile name="homepage-log" fileName="${basePath}/homepage.log" filePattern="${basePath}/homepage-%d{yyyy-MM-dd}.log">
+            <PatternLayout>
+                <pattern>${logPatternLayout}</pattern>
+            </PatternLayout>
+            <Policies>
+                <TimeBasedTriggeringPolicy interval="1" modulate="true" />
+            </Policies>
+        </RollingFile>
+
+        <Console name="console" target="SYSTEM_OUT">
+            <PatternLayout   pattern="[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n" />
+        </Console>
+    </Appenders>
+    <Loggers>
+        <Logger name="WeatherSiteTests.Purchase_Test" level="debug" additivity="true">
+            <appender-ref ref="purchase-log" level="debug" />
+        </Logger>
+        <Logger name="WeatherSiteTests.ProductList_Test" level="debug" additivity="true">
+            <appender-ref ref="product-list-log" level="debug" />
+        </Logger>
+        <Logger name="WeatherSiteTests.Sanity_Test" level="debug" additivity="true">
+            <appender-ref ref="sanity-log" level="debug" />
+        </Logger>
+        <Logger name="WeatherSiteTests.Homepage_Test" level="debug" additivity="true">
+            <appender-ref ref="homepage-log" level="debug" />
+        </Logger>
+
+        <Root level="debug" additivity="false">
+            <appender-ref ref="console" />
+        </Root>
+    </Loggers>
+</Configuration>

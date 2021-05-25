@@ -1,0 +1,27 @@
+[INFO ] 2021-01-01 11:13:09.240 [AddMultipleItems_Test] starting - addMultipleSameProduct
+[INFO ] 2021-01-01 11:13:14.362 [AddMultipleItems_Test] addMultipleSameProduct - Starting adding multiple same product test
+[INFO ] 2021-01-01 11:13:14.363 [AddMultipleItems_Test] openProductPage - Opening a website
+[INFO ] 2021-01-01 11:13:15.836 [AddMultipleItems_Test] addProduct - Adding product to cart[name=Cream UV-30, price=100]
+[INFO ] 2021-01-01 11:13:15.840 [AddMultipleItems_Test] addProduct - Adding product to cart[name=Cream UV-30, price=100]
+[INFO ] 2021-01-01 11:13:15.843 [AddMultipleItems_Test] addProduct - Adding product to cart[name=Cream UV-30, price=100]
+[INFO ] 2021-01-01 11:13:15.846 [AddMultipleItems_Test] addProduct - Adding product to cart[name=Cream UV-30, price=100]
+[INFO ] 2021-01-01 11:13:15.848 [AddMultipleItems_Test] addProduct - Adding product to cart[name=Cream UV-30, price=100]
+[INFO ] 2021-01-01 11:13:15.850 [AddMultipleItems_Test] gotoCart - Go to cart page
+[DEBUG] 2021-01-01 11:13:18.493 [AddMultipleItems_Test] failed - addMultipleSameProduct | Reason: An error occurred while adding a product multiple times, may not have been able to added the product or not in the selected quantity.
+[INFO ] 2021-01-01 11:13:18.493 [AddMultipleItems_Test] starting - addMultipleProducts
+[INFO ] 2021-01-01 11:13:23.612 [AddMultipleItems_Test] addMultipleProducts - Starting adding multiple products test
+[INFO ] 2021-01-01 11:13:23.612 [AddMultipleItems_Test] openProductPage - Opening a website
+[INFO ] 2021-01-01 11:13:25.125 [AddMultipleItems_Test] addProduct - Adding product to cart[name=Gary Bio Sandalwood SPF-50, price=250]
+[INFO ] 2021-01-01 11:13:25.126 [AddMultipleItems_Test] addProduct - Problem with adding product to cart
+[INFO ] 2021-01-01 11:13:25.126 [AddMultipleItems_Test] gotoCart - Go to cart page
+[INFO ] 2021-01-01 11:13:25.126 [AddMultipleItems_Test] gotoCart - Problem with entry to cart
+[DEBUG] 2021-01-01 11:13:25.693 [AddMultipleItems_Test] failed - addMultipleProducts | Reason: Critical error : Unable to open cart
+[INFO ] 2021-01-01 11:13:25.693 [ProductsList_Test] starting - entryToProductsPage
+[INFO ] 2021-01-01 11:13:30.819 [ProductsList_Test] openProductPage - Opening a website
+[INFO ] 2021-01-01 11:13:32.761 [ProductsList_Test] succeeded - entryToProductsPage
+[INFO ] 2021-01-01 11:13:32.761 [ProductsList_Test] starting - uniformCatalog
+[INFO ] 2021-01-01 11:13:37.901 [ProductsList_Test] openProductPage - Opening a website
+[DEBUG] 2021-01-01 11:13:40.465 [ProductsList_Test] failed - uniformCatalog | Reason: Non-uniform product list
+[INFO ] 2021-01-01 11:13:40.465 [ProductsList_Test] starting - properDisplayOfProducts
+[INFO ] 2021-01-01 11:13:45.581 [ProductsList_Test] openProductPage - Opening a website
+[INFO ] 2021-01-01 11:13:47.774 [ProductsList_Test] succeeded - properDisplayOfProducts

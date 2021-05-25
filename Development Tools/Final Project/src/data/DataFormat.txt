@@ -1,0 +1,5 @@
+Airline, From, To, Date(day/month/year ,hour:minute), FlightNumber, terminalNumber
+
+El-Al, New York, Tel Aviv, 13/2/1998, 13:12, 324Fx, 3
+
+Airline, Airport, From, To, City, StartDate(day/month/year), StartTime(hour:minute), FinishDate(day/month/year), FinishTime(hour:minute), FlightNumber, TerminalNumber

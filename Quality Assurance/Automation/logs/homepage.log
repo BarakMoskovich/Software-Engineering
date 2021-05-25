@@ -1,0 +1,5 @@
+[INFO ] 2021-01-01 11:13:47.777 [TemperatureHomePage] starting - homePageTemp
+[INFO ] 2021-01-01 11:13:52.905 [TemperatureHomePage] homePageTemp - Checking homepage buttons by temperature
+[ERROR] 2021-01-01 11:13:53.847 [TemperatureHomePage] homePageTemp - On temperature 4Expected: Moisturizers or Sunscreens
+Got: both.
+[DEBUG] 2021-01-01 11:13:54.411 [TemperatureHomePage] failed - homePageTemp | Reason: Should be only one of creams

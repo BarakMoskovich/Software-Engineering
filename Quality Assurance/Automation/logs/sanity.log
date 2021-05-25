@@ -1,0 +1,52 @@
+[INFO ] 2021-01-01 11:02:43.709 [ListOfProducts] starting - StaticSunscreenProductsAfterRefresh
+[INFO ] 2021-01-01 11:02:49.305 [ListOfProducts] refreshAndSameProduct - Checking Sunscreens static products after pressing back button and returning to the same page
+[DEBUG] 2021-01-01 11:02:51.697 [ListOfProducts] failed - StaticSunscreenProductsAfterRefresh | Reason: At least one product changed
+[INFO ] 2021-01-01 11:02:51.698 [ListOfProducts] starting - SunscreensProductInfo
+[INFO ] 2021-01-01 11:02:56.843 [ListOfProducts] SunscreensProductInfo - Checking product - Description, Price & Add button for Sunscreens
+[INFO ] 2021-01-01 11:02:56.843 [ListOfProducts] checkProductInfo - Checking products in sunscreen - Description, Price & Add button.
+[INFO ] 2021-01-01 11:02:58.194 [ListOfProducts] checkProductInfo - There is a list of products
+[INFO ] 2021-01-01 11:02:58.982 [ListOfProducts] succeeded - SunscreensProductInfo
+[INFO ] 2021-01-01 11:02:58.984 [ListOfProducts] starting - ProductsShownSunscreens
+[INFO ] 2021-01-01 11:03:04.140 [ListOfProducts] ProductsShownSunscreens - Checking is there a list of products for Sunscreens
+[INFO ] 2021-01-01 11:03:05.920 [ListOfProducts] succeeded - ProductsShownSunscreens
+[INFO ] 2021-01-01 11:03:05.921 [ListOfProducts] starting - StaticMoisturizerProductsAfterBackAndReturn
+[INFO ] 2021-01-01 11:03:11.052 [ListOfProducts] backAndSameLink - Checking Moisturizers static products after pressing back button and returning to the same page
+[DEBUG] 2021-01-01 11:03:13.504 [ListOfProducts] failed - StaticMoisturizerProductsAfterBackAndReturn | Reason: At least one product changed
+[INFO ] 2021-01-01 11:03:13.504 [ListOfProducts] starting - MoisturizersProductInfo
+[INFO ] 2021-01-01 11:03:18.649 [ListOfProducts] MoisturizersProductInfo - Checking product - Description, Price & Add button for Moisturizers
+[INFO ] 2021-01-01 11:03:18.650 [ListOfProducts] checkProductInfo - Checking products in moisturizer - Description, Price & Add button.
+[INFO ] 2021-01-01 11:03:19.873 [ListOfProducts] checkProductInfo - There is a list of products
+[INFO ] 2021-01-01 11:03:20.636 [ListOfProducts] succeeded - MoisturizersProductInfo
+[INFO ] 2021-01-01 11:03:20.638 [ListOfProducts] starting - ProductsShownMoisturizers
+[INFO ] 2021-01-01 11:03:25.776 [ListOfProducts] ProductsShownMoisturizers - Checking is there a list of products for Moisturizers
+[INFO ] 2021-01-01 11:03:27.686 [ListOfProducts] succeeded - ProductsShownMoisturizers
+[INFO ] 2021-01-01 11:03:27.686 [ListOfProducts] starting - StaticMoisturizerProductsAfterRefresh
+[INFO ] 2021-01-01 11:03:32.819 [ListOfProducts] refreshAndSameProduct - Checking Moisturizers static products after pressing back button and returning to the same page
+[DEBUG] 2021-01-01 11:03:35.037 [ListOfProducts] failed - StaticMoisturizerProductsAfterRefresh | Reason: At least one product changed
+[INFO ] 2021-01-01 11:03:35.037 [ListOfProducts] starting - StaticSunscreenProductsAfterBackAndReturn
+[INFO ] 2021-01-01 11:03:40.172 [ListOfProducts] backAndSameLink - Checking Sunscreens static products after pressing back button and returning to the same page
+[DEBUG] 2021-01-01 11:03:42.768 [ListOfProducts] failed - StaticSunscreenProductsAfterBackAndReturn | Reason: At least one product changed
+[INFO ] 2021-01-01 11:03:42.772 [Sanity_Payment] starting - validPurchase
+[INFO ] 2021-01-01 11:03:47.897 [Sanity_Payment] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:03:49.103 [Sanity_Payment] openCartAndAddItem - Adding item to cart[name=item, price=366]
+[INFO ] 2021-01-01 11:03:49.109 [Sanity_Payment] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:03:51.365 [Sanity_Payment] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:03:51.434 [Sanity_Payment] insertMail - Insert valid email
+[INFO ] 2021-01-01 11:03:52.060 [Sanity_Payment] verificationCode - Checks if an verification pane is open
+[INFO ] 2021-01-01 11:03:54.166 [Sanity_Payment] insertCardNumber - Insert valid card number
+[INFO ] 2021-01-01 11:03:54.943 [Sanity_Payment] insertCardDate - Insert valid card date
+[INFO ] 2021-01-01 11:03:55.057 [Sanity_Payment] insertCVC - Insert valid card CVC
+[INFO ] 2021-01-01 11:03:55.153 [Sanity_Payment] insertZipCode - Insert valid zip code
+[INFO ] 2021-01-01 11:03:55.297 [Sanity_Payment] pay - Click on Pay button
+[INFO ] 2021-01-01 11:03:56.279 [Sanity_Payment] succeeded - validPurchase
+[INFO ] 2021-01-01 11:03:56.280 [Sanity_EmptyingCart] starting - cartNotEmpty
+[INFO ] 2021-01-01 11:04:01.418 [Sanity_EmptyingCart] openCartAndAddItem - Opening a website
+[INFO ] 2021-01-01 11:04:02.622 [Sanity_EmptyingCart] openCartAndAddItem - Adding item to cart[name=item, price=169]
+[INFO ] 2021-01-01 11:04:02.626 [Sanity_EmptyingCart] openCartAndAddItem - Go to cart page
+[INFO ] 2021-01-01 11:04:03.702 [Sanity_EmptyingCart] openPaymentFrame - Opening a payment window
+[INFO ] 2021-01-01 11:04:05.223 [Sanity_EmptyingCart] succeeded - cartNotEmpty
+[INFO ] 2021-01-01 11:04:05.223 [Sanity_EmptyingCart] starting - cartEmpty
+[INFO ] 2021-01-01 11:04:10.372 [Sanity_EmptyingCart] openCart - Opening a website
+[INFO ] 2021-01-01 11:04:12.733 [Sanity_EmptyingCart] openCart - Opening a website
+[INFO ] 2021-01-01 11:04:13.171 [Sanity_EmptyingCart] openPaymentFrame - Opening a payment window
+[DEBUG] 2021-01-01 11:04:14.474 [Sanity_EmptyingCart] failed - cartEmpty | Reason: CRITICAL ERROR WHEN CART IS EMPTY - SANITY CHECK FAIL

@@ -1,0 +1,33 @@
+helpDogs
+110
+5
+1
+4
+Momo, 40, true, Malinois, 100
+2, 3, 2019
+Bobo, 30, false, Malinois, 101
+2, 3, 2019
+Popo, 10, false, Pitbull, 105
+4, 3, 2019
+Toto, 10, false, Wolf, 108
+6, 3, 2019
+2
+2
+Koko, 35, false, Malinois, 102
+3, 3, 2019
+Aoao, 40, true, Pitbull, 103
+3, 3, 2019
+3
+2
+Lolo, 17, true, Wolf, 104
+4, 3, 2019
+Soso, 40, false, Poodle, 107
+5, 3, 2019
+4
+1
+Gogo, 30, true, Pitbull, 106
+5, 3, 2019
+5
+1
+Coco, 15, true, Pitbull, 109
+6, 3, 2019
